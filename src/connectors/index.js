@@ -1,0 +1,1 @@
+export { openSqliteDB as SqliteConnector } from 'sqlite'
